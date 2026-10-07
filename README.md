@@ -1,2 +1,3 @@
 # python_learning
-Python learning
+Python programming learning
+# Chapter 1
